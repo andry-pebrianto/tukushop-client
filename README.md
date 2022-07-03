@@ -155,7 +155,7 @@ REACT_APP_API_URL=YOUR_API_URL
 <!-- RELATED PROJECT -->
 ## Related Project
 
-- [TukuShop API](https://github.com/HyperCarry-Team/TukuShop-app-backend)
+- [TukuShop API](https://github.com/andry-pebrianto/tukushop-api)
 - [TukuShop Demo](https://tukushop-app.vercel.app/)
 
 ## Our Team
